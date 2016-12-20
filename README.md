@@ -4,7 +4,8 @@ Minimal boilerplate for a static php site with Javascript (jQuery) and Sass with
 
 ### How to use?
 - Install Node.js, NPM and Grunt on your computer
-- Navigation to the folder and run ´npm install´.
+- Navigation to the folder and run `npm install`.
+- Build the project with `grunt` or use `grunt watch`.
 - Ready for use!
 
 Feel free to improve the workflow or do whatever you want. Pull request is always the best!
