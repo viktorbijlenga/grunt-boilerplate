@@ -72,7 +72,6 @@ module.exports = function(grunt) {
 			dist: {
 				files: {
 				'build/css/master.css': 'assets/scss/master.scss',
-				'build/css/ie.css': 'assets/scss/ie.scss'
 				}
 			}
 		},
